@@ -1,6 +1,23 @@
 # Spotify-el8alaba
 ![alt-text](https://j.gifs.com/81njRg.gif)
 
+## Screenshots
+
+### login Page
+<a href="https://ibb.co/0Bw8xZw"><img src="https://i.ibb.co/mvx13tx/1591914624635.jpg" alt="1591914624635" border="0"></a><br /><a target='_blank' href='https://emoticoncentral.com/category/astronomy'></a>
+
+### Homepage Page
+<a href="https://ibb.co/vZ4Tkgr"><img src="https://i.ibb.co/D5fvQs6/1591914629682.jpg" alt="1591914629682" border="0"></a>
+
+### Playlists Page
+<a href="https://ibb.co/d53bkyk"><img src="https://i.ibb.co/FDfs8t8/1591914628801.jpg" alt="1591914628801" border="0"></a>
+
+### Artist Page
+<a href="https://ibb.co/87Fcc4G"><img src="https://i.ibb.co/MCq665K/1591914628590.jpg" alt="1591914628590" border="0"></a>
+
+### User Page
+<a href="https://ibb.co/syxfcX0"><img src="https://i.ibb.co/gzq2Qc5/1591914625704.jpg" alt="1591914625704" border="0"></a>
+
 ## Prerequisites
 Install `nodejs`. Use this [installation guide](https://nodejs.org/en/download/package-manager/) according to your OS
 
